@@ -1,0 +1,11 @@
+.upload-wrapper {width:450px; margin-right: auto; margin-left: auto; margin-top: 10px; padding: 50px 50px 0 50px;}
+.upload-wrapper input[type=file] {border: 1px solid #DDD; padding: 6px; background: #FFF; border-radius: 5px; width:300px;}
+.upload-wrapper .submit-btn {border: none; padding: 10px 30px; background: #7a29ba; border-radius: 5px; color: #FFF; font-family: ixr;}
+.output{padding: 5px; font-size: 12px; font-family: ixr;}
+.output img {border: 1px solid #DDD; padding: 5px;}
+.progressbox {width:300px; display:none;}
+.statustxt {font-family: ixr; font-size: 20px; float:left; margin:40px 0 0 20px; width:70px;}
+.loading-img {margin-top:30px;}
+.upload_txt {padding: 0px 0px 10px 0px; margin: -30px 0px 20px 0px; border-bottom: 1px dotted #DDD; font-family: ixr; font-size: 24px;}
+.error{font-family: ixr; color:red; font-size: 14px; margin-top:20px;}
+
